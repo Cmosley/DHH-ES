@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <div className="container">
           <div className={styles.sos}>SOS</div>
-          <div className={styles.options}>Locate ME</div>
+          <div className={styles.options}>LOCATE</div>
           <div className={styles.options}>CHAT</div>
         </div>
       </main>
